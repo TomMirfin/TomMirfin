@@ -7,7 +7,7 @@
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning React, Javascript, CSS
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me https://www.linkedin.com/in/tom-mirfin-392873102/
+- 📫 How to reach me https://www.linkedin.com/in/tom-mirfin/
 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
