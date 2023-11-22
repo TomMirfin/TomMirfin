@@ -4,7 +4,7 @@
 </div>
 
 - 👋 Hi, I’m Tom
-- 👀 I’m interested in Junior Developer systems
+- 👀 I’m interested in Junior Developer Roles
 - 🌱 I’m currently learning React, Javascript, CSS, Node.js, Express, Jest, PostgreSQL
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me https://www.linkedin.com/in/tom-mirfin/
